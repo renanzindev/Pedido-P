@@ -1,7 +1,7 @@
 
 
 function sim(){
-    alert("Parabéns para a noiva! :) ")
+    alert("Meu pix ta salvo ai ja amor rsrs ! :) ")
 }
 
 function desvia(t) {
